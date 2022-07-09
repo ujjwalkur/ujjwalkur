@@ -1,4 +1,3 @@
-
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/96/61/94/1000_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)]
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">a programmer</h3>
