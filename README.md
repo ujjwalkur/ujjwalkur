@@ -1,4 +1,4 @@
-[![MasterHead]([https://as1.ftcdn.net/v2/jpg/02/96/61/94/1000_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg](https://media.licdn.com/dms/image/v2/D5616AQGZlCAzneSJqA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733939190665?e=1742428800&v=beta&t=dSfTrVwyrCiY_EzMuDCB7HpWbrYsCv1J06tt39P7YEo))]
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/96/61/94/1000_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)]
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">a programmer</h3>
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" alt="" width="300" >
