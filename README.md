@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/im_ujjwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalkr22" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjwalsig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ujjwal.singh" height="30" width="40" /></a>
-  <a href="https://linkedin.com/ujjwlkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ujjwalkumar" height="30" width="40" /></a>
+  <a href="[https://linkedin.com/ujjwlkumar](https://www.linkedin.com/in/ujjwal-singh2211/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BS%2BkJvrYbQbarhJ%2B%2FRroIrA%3D%3D)" alt="ujjwalkumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
